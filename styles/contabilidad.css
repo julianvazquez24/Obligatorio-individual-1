@@ -1,0 +1,49 @@
+ 
+.container-lg {
+    margin: 0 auto;
+}
+
+#form-ahorro {
+    width: 20%;
+    float: right;
+    margin: 20px auto;
+}
+
+#form-gastos {
+    padding-left: 15%;
+    width: 60%;
+    float: left;
+    margin: 20px auto;
+}
+.listado-gastos{
+    padding-top: 30%;
+    padding-left: 0%;
+    padding-right: 25%;
+    width: 70%;
+    margin: 20px auto;
+}
+
+#total-gastos-c, #total-gastos-f, #total-gastos-e, #total-gastos-m {
+    text-align: center;
+    margin: 20px auto;
+    font-size: 24px;
+    color: red;
+}
+
+#ingreso-mensual-estadisticas{
+    text-align: center;
+    margin: 20px auto;
+    font-size: 24px;
+    color: green;
+}
+
+#estadisticas-titulo{
+    text-align: center;
+    margin: 20px auto;
+}
+  
+#estadisticas-div{
+    margin-top: 10%;
+}
+  
+
